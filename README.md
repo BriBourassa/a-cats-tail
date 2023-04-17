@@ -6,6 +6,18 @@
 
 Have you ever thought to yourself, is my cat evil? Do you yearn for the nostalgia of taking care of a pixelated virtual pet? Well A Cat's Tail is there for you in your time of need. Take care of a virtual cat, and your choices just might affect the fate of the entire world. A new-age Tamagotchi for old-school gamers, with a twist.
 
+## Installation Instructions:
+[//]: <>
+1. Fork and clone [this repo](https://github.com/qrispi/a-cats-tail).
+1. Copy the SSH key from the green "Code" button.
+1. In your terminal, use the command `git clone git@github.com:[https://github.com/qrispi/a-cats-tail]`.
+1. Run `npm install`.
+1. Do NOT run `npm audit fix --force` when prompted.
+1. Open the repo in your text editor to make any changes or inspect code.
+1. Run `npm start` in your terminal.
+1. Copy and paste the generated `localServer` address that your terminal provides into your browser address bar.
+
+
 ## Preview of App:
 
 ### Game Start Demo:
@@ -23,6 +35,21 @@ Have you ever thought to yourself, is my cat evil? Do you yearn for the nostalgi
 ## Learning Goals:
 
 Our main goal was to better understand global state management though learning and implementing Redux Toolkit. We practiced E2E testing with Cypress, used React hooks, Router, fetch calls, and exercised teamwork with the Git workflow.
+
+## Technologies Used:
+[//]: <>
+- Redux Toolkit
+- Fetch API
+- Webpack
+- Cypress E2E Testing
+- React Framework
+- Router v5
+- LightHouse
+- Wave Evaluation
+- GitHub Issues & Project Board
+- JavaScript
+- CSS
+- HTML & JSX
 
 ## Wins and Challenges:
 
